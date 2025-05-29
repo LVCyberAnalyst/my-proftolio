@@ -1,9 +1,150 @@
-# Premier Audit de Sécurité
+# 🔍 Audit #1 - Premier Audit de Sécurité
 
-## Description
-Audit de sécurité pour l'entreprise "Botium Toys". L'équipe IT était inquiète de voir que l'entreprise étaient en grande expension mais qu'ils n'avaient aucune mesure de sécurité.
+## 📋 Informations Générales
 
-## Fichiers inclus
-- Scope and Goals
-- Control and Compliance
-- Control categories
+- **Date de réalisation :** 06.2025
+- **Durée :** 1j
+- **Type d'audit :** Audit interne
+- **Périmètre :** Toute la sécurité
+- **Statut :** ✅ Terminé
+
+---
+
+## 🎯 Objectifs de l'Audit
+
+### Objectif principal
+[Décrire l'objectif principal de ton audit]
+
+### Objectifs spécifiques
+- [ ] Identifier les vulnérabilités critiques
+- [ ] Évaluer la conformité aux standards de sécurité
+- [ ] Analyser les politiques de sécurité existantes
+- [ ] Proposer des mesures correctives
+- [ ] [Autres objectifs spécifiques]
+
+---
+
+## 🛠️ Méthodologie et Outils Utilisés
+
+### Méthodologie
+- **Framework utilisé :** [ISO 27001, NIST, OWASP, autre]
+- **Approche :** [Boîte noire, boîte blanche, mixte]
+- **Phases :** 
+  1. Planification et préparation
+  2. Collecte d'informations
+  3. Analyse des vulnérabilités
+  4. Tests et vérifications
+  5. Synthèse et recommandations
+
+### Outils et Technologies
+- **Outils de scan :** [Nmap, Nessus, OpenVAS, autre]
+- **Analyse réseau :** [Wireshark, autre]
+- **Outils système :** [PowerShell, Bash, autre]
+- **Documentation :** [Outils utilisés pour le rapport]
+
+---
+
+## 📊 Résultats Principaux
+
+### Vulnérabilités Identifiées
+- **🔴 Critiques :** [Nombre] vulnérabilités
+- **🟠 Élevées :** [Nombre] vulnérabilités  
+- **🟡 Moyennes :** [Nombre] vulnérabilités
+- **🔵 Faibles :** [Nombre] vulnérabilités
+
+### Points Forts Observés
+- [Point fort 1]
+- [Point fort 2]
+- [Point fort 3]
+
+### Principales Faiblesses
+- [Faiblesse 1]
+- [Faiblesse 2]
+- [Faiblesse 3]
+
+---
+
+## 📂 Fichiers et Livrables
+
+### 📄 Rapports
+- `rapport-audit-complet.pdf` - Rapport détaillé de l'audit
+- `resume-executif.pdf` - Synthèse pour la direction
+- `plan-action.xlsx` - Plan d'actions priorisées
+
+### 📋 Outils et Templates
+- `checklist-audit.xlsx` - Checklist utilisée pendant l'audit
+- `grille-evaluation.xlsx` - Grille d'évaluation des risques
+
+### 📸 Captures et Preuves
+- `captures-ecran/` - Dossier contenant les preuves visuelles
+- `logs-systeme/` - Extraits de logs analysés (anonymisés)
+
+### 📊 Analyses
+- `analyse-vulnerabilites.xlsx` - Détail des vulnérabilités trouvées
+- `cartographie-risques.pdf` - Cartographie des risques identifiés
+
+---
+
+## 🎯 Recommandations Principales
+
+### ⚡ Actions Urgentes (0-30 jours)
+1. [Recommandation critique 1]
+2. [Recommandation critique 2]
+3. [Recommandation critique 3]
+
+### 📅 Actions Court Terme (1-3 mois)
+1. [Recommandation importante 1]
+2. [Recommandation importante 2]
+
+### 📈 Actions Long Terme (3-12 mois)
+1. [Amélioration structurelle 1]
+2. [Amélioration structurelle 2]
+
+---
+
+## 📚 Compétences Développées
+
+Durant ce projet, j'ai développé les compétences suivantes :
+
+**Techniques :**
+- Utilisation d'outils de scan de vulnérabilités
+- Analyse de logs et traces système
+- Évaluation de configurations de sécurité
+- [Autres compétences techniques]
+
+**Méthodologiques :**
+- Application de méthodologies d'audit
+- Gestion de projet d'audit
+- Priorisation des risques
+- Rédaction de rapports professionnels
+
+**Relationnelles :**
+- Communication avec les parties prenantes
+- Présentation de résultats d'audit
+- Pédagogie sur les enjeux de sécurité
+
+---
+
+## 🔄 Retour d'Expérience
+
+### Ce qui a bien fonctionné
+- [Point positif 1]
+- [Point positif 2]
+
+### Difficultés rencontrées
+- [Difficulté 1 et comment elle a été résolue]
+- [Difficulté 2 et comment elle a été résolue]
+
+### Améliorations pour le prochain audit
+- [Amélioration 1]
+- [Amélioration 2]
+
+---
+
+## 📞 Questions ?
+
+Si tu as des questions sur cet audit ou sur ma méthodologie, n'hésite pas à me contacter !
+
+---
+
+*📅 Dernière mise à jour : [Date]*
