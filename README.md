@@ -91,7 +91,7 @@ Passionné(e) par la cybersécurité, je développe mes compétences en analyse 
 ## 📫 Contact
 
 - 💼 **LinkedIn :** [Ton profil LinkedIn]
-- 📧 **Email :** lvcyberanalyst
+- 📧 **Email :** lvcyberanalyst@gmail.com
 - 🌐 **Portfolio :** 
 
 ---
