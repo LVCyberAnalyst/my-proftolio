@@ -40,7 +40,7 @@ Passionné(e) par la cybersécurité, je développe mes compétences en analyse 
 
 ## 💼 Projets réalisés
 
-### 🔍 [Audit de Sécurité - Premier Projet](lien-vers-repository-audit)
+### 🔍 [Audit de Sécurité - Premier Projet](/mes-projets)
 **Description :** Réalisation d'un audit de sécurité complet incluant l'analyse des vulnérabilités et recommandations d'amélioration.
 
 **Technologies utilisées :**
@@ -56,6 +56,23 @@ Passionné(e) par la cybersécurité, je développe mes compétences en analyse 
 ---
 
 ## 🛠️ Compétences techniques
+### 🔍 [Analyse de sécurité - Premier Projet](/mes-projets)
+
+**Technologies utilisées**
+- DCPDump
+- Journal de log
+- Internet control message protocol (ICMP)
+
+**Résultats**
+- Identitifaction de l'erreur
+- Proposition de problème
+- Etablissement de "Rapport d'analyse"
+
+**A améliorer**
+- Être beaucoup plus précis
+- Être beaucoup plus attentif sur les petits détails des logs (ce sont les petits détails qui font toute la différence)
+
+---
 
 ### 📊 Outils et plateformes
 - **SIEM :** [En cours d'apprentissage]
