@@ -20,8 +20,8 @@ Passionné(e) par la cybersécurité, je développe mes compétences en analyse 
 **Statut :** En cours - [2]/8 modules complétés
 
 **Modules terminés :**
-- [ ] Foundations of Cybersecurity
-- [ ] Play It Safe: Manage Security Risks
+- [X] Foundations of Cybersecurity
+- [X] Play It Safe: Manage Security Risks
 - [ ] Connect and Protect: Networks and Network Security
 - [ ] Tools of the Trade: Linux and SQL
 - [ ] Assets, Threats, and Vulnerabilities
